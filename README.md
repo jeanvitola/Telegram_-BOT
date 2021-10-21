@@ -47,5 +47,11 @@ test = telegram_bot_sendtext("Testing Telegram bot")
 print(test)```
 
 
+![image](https://user-images.githubusercontent.com/75003188/138360033-375c8bb6-d86e-4130-80c0-7913de81a600.png)
+
+
+
+
+
 
 
